@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Ricardo, Sam, Calahan, Alex"
 format:
   html:
     theme: default
@@ -9,4 +10,3 @@ format:
 ```{r}
 
 ```
-
